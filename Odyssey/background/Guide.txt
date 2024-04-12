@@ -1,0 +1,8 @@
+Base Resolution of Background usually follows 
+768 x 512 (Ratio 3:2)
+
+In R20 it usually fits a page with 15 x 10 Cells
+This rule does not apply to battlemap.
+
+copy folder on battlemap indicates a probably copyrigted image taken from pinterest
+use with caution or personal use only.
